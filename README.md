@@ -1,0 +1,1 @@
+# bousai_app_public
